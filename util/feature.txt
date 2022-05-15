@@ -1,3 +1,6 @@
 feature 1 : implementation
+
 feature 2 : implementation
+Additional abilities to handle multiple weights
+
 feature 3 : implementation
